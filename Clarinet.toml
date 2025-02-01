@@ -12,6 +12,10 @@ depends_on = []
 path = "contracts/stepnest-core.clar"
 depends_on = []
 
+[contracts.user-profile]
+path = "contracts/user-profile.clar"
+depends_on = []
+
 [repl]
 costs_version = 2
 parser_version = 2
